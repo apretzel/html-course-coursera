@@ -1,3 +1,3 @@
 # html-course-coursera
-Aprendendo HTML Coursera
+Learning HTML Coursera
 Final Project "Understanding the Parts of a Violin"
